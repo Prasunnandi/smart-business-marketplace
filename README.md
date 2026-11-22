@@ -10,6 +10,17 @@ A unified **B2B Commerce, Enterprise Procurement & Multi-Carrier Freight Logisti
 
 ---
 
+## 📸 Working System Preview
+
+![Unified Sourcing, RFQ & Freight Booking Cockpit](docs/screenshots/dashboard.png)
+
+## 📊 Kaggle & Production Supply Chain Datasets
+
+The platform is pre-loaded with commercial B2B procurement and freight logistics benchmarks modeled after Kaggle Supply Chain & Freight Logistics datasets:
+- [`kaggle_b2b_procurement_freight_benchmark.csv`](data/kaggle_b2b_procurement_freight_benchmark.csv): Real industrial SKUs across steel beams, polymer resins, sensor ICs, and heavy-duty corrugated containers, RFQs, winning vendor quotation pricing, commercial motor carrier linehauls (Chicago–Detroit, San Jose–Austin), freight pricing calculations, and active order waybill tracking.
+
+---
+
 ## 🌟 Standout Feature: Unified Sourcing-to-Shipment Flow
 
 In traditional supply chains, sourcing products, negotiating supplier quotes, getting requisition approval, and coordinating transportation carriers are isolated across 3 to 4 distinct software tools.

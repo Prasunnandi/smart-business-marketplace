@@ -1,0 +1,6 @@
+rfq_id,product_sku,product_title,order_qty,unit,buyer_entity,winning_supplier,bid_unit_price,sourcing_subtotal,booked_carrier,origin_hub,destination_hub,freight_cost_usd,total_commitment_usd,order_status
+RFQ-501,STL-BEAM-H300,Structural Heavy H-Beam Grade 50,50,ton,OmniBuild Infrastructure Corp,Apex Industrial Steels,395.00,19750.00,SwiftHaul Heavy Logistics,Chicago IL,Detroit MI,1450.00,21200.00,DISPATCHED
+RFQ-502,SENS-OPT-500,Industrial Optical Proximity Sensor IC,500,unit,Nexus Robotics Automation,Precision Micro-Sensors,25.00,12500.00,SwiftHaul Heavy Logistics,San Jose CA,Austin TX,650.00,13150.00,IN_TRANSIT
+RFQ-503,POLY-RES-HDPE,High-Density Polyethylene Resin Pellets,20,metric ton,AeroTech Composite Molding,Vanguard Polymer & Plastics,1080.00,21600.00,CrossCountry Interstate,Akron OH,Dallas TX,1820.00,23420.00,IN_TRANSIT
+RFQ-504,BOX-CORR-PALLET,Heavy-Duty Double-Wall Corrugated Pallet Boxes,1000,box,Midwest Distribution Logistics,Midwest Packaging & Container,12.80,12800.00,Eagle Eye Express,Indianapolis IN,Columbus OH,720.00,13520.00,DELIVERED
+RFQ-505,VALVE-IND-FLG,ANSI Class 300 Flanged Cast Steel Gate Valve,40,unit,Texas PetroChem Refineries,Apex Industrial Steels,480.00,19200.00,SwiftHaul Heavy Logistics,Chicago IL,Houston TX,1640.00,20840.00,QUOTES_RECEIVED
